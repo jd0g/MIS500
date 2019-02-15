@@ -1,10 +1,8 @@
 ###############################################
 # Module1.py
 # Module 1 Critical Thinking Assignment
-# Jason Kehl
+# J Kehl
 # MIS500 - Foundations of Data Analytics
-# Colorado State University - Global Campus
-# Dr. Dwight Davis
 # February 14, 2019
 ##############################################
 
