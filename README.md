@@ -1,12 +1,8 @@
-# Project Title
-MIS500 Module 1 Project Files
+# MIS500 Module 1 Project Files
 
-## Author
-J Kehl
+## J Kehl
 
-## Class
-MIS500 - Foundations of Data Analytics
-
+## MIS500 - Foundations of Data Analytics
 
 ## Getting Started
 1. Install Python
