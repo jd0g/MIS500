@@ -4,9 +4,15 @@
 
 ## MIS500 - Foundations of Data Analytics
 
-## Getting Started
-1. Install Python
-2. Run the Module1.py python script
+### Contents
+1. This README.md
+2. Module1.py 		- assignment python script with comments
+3. Module1Output.txt	- output from Module1.py
+4. .idea (folder)	- python project files
+
+### Purpose
+1. Introduction to python
+2. Introductoin to Git/GitHub
 
 ### Prerequisites
 Python
