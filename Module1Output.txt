@@ -1,0 +1,7 @@
+C:\Workspace\GIT\MIS500\Module1.py\venv\Scripts\python.exe C:/Workspace/GIT/MIS500/Module1.py/Module1.py
+Susan now lives in Washington
+and makes $105000.0
+Ellen now lives in Texas
+and makes $78750.0
+
+Process finished with exit code 0
